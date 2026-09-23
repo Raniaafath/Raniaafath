@@ -1,45 +1,121 @@
-# Hey, I'm Rania 👋
+# Hi, I'm Rania 👋
 
-Telecom engineering student @ ENIT, currently on a DAAD research scholarship at TU Dresden / ScaDS.AI.
-I work at the intersection of **AI tooling**, **DevOps automation**, and **LLM integration**.
+**Telecommunications Engineering student @ ENIT** with experience across **DevOps, Cloud infrastructure, AI tooling, and LLM-powered automation**.
 
----
+I have worked on infrastructure automation, CI/CD, Kubernetes, observability, ML pipelines, and LLM-based developer tools across academic research and industry projects.
 
-## What I'm working on
-
-- 🔬 Research at ScaDS.AI — claim extraction & question answering over large-scale knowledge graphs (SemOpenAlex, HPC)
-- 🤖 Building LLM-powered automation workflows (n8n, ChatGPT API, Claude API)
-- ☁️ DevOps & cloud infra — Docker, Linux, CI/CD, OVH VPS
-- 📦 Working toward CKAD certification
+Currently contributing to research at **TU Dresden / ScaDS.AI** through a **DAAD KOSPIE scholarship**, working on scientific knowledge extraction and question answering over large-scale scholarly data.
 
 ---
 
-## Tech stack
+## 🚀 What I work on
 
-**Languages:** Python · JavaScript · TypeScript · Bash · SQL  
-**AI/LLM:** OpenAI API · Claude API · n8n · Cursor · GitHub Copilot · Claude Code  
-**DevOps:** Docker · Git · Linux CLI · GitLab CI/CD · OVH VPS  
-**Backend:** Node.js · Flask · REST APIs  
-**Other:** Kubernetes (learning) · Terraform (learning)
-
----
-
-## Selected projects
-
-**SEO Title Generation Tool** — Node.js + ChatGPT API automation tool deployed on OVH VPS, built during my time at Neomark Group. Automated bulk title generation for e-commerce product catalogs.
-
-**IMEI Fraud Detection** — ML pipeline built during internship at Orange Tunisie. Anomaly detection on telecom usage data.
-
-**Knowledge Graph QA** — Ongoing research work at ScaDS.AI on querying SemOpenAlex using LLMs over HPC infrastructure.
+* ☁️ **DevOps & Cloud** — Docker, Kubernetes, CI/CD, GitOps, Terraform, Linux
+* 🔄 **Platform Automation** — GitHub Actions, GitLab CI/CD, ArgoCD, infrastructure automation
+* 📊 **Observability** — Prometheus, Grafana, application and infrastructure monitoring
+* 🤖 **AI & LLM Tooling** — OpenAI API, Claude API, n8n, LLM-powered workflows
+* 🔬 **Research** — scientific claim extraction, knowledge graphs, scholarly QA and HPC
+* 🌐 **Infrastructure** — OVH VPS, reverse proxies, SSL/TLS and self-hosted services
 
 ---
 
-## Currently
+## 🛠️ Tech Stack
 
-📍 Dresden, Germany (DAAD KOSPIE scholarship, TU Dresden)  
-🔍 Looking for a Werkstudent position in DevOps / AI tooling in Dresden  
-🌐 Open to English-first teams
+### Cloud & DevOps
+
+`Docker` · `Kubernetes` · `Terraform` · `ArgoCD` · `GitHub Actions` · `GitLab CI/CD` · `Linux` · `OVH Cloud`
+
+### Observability & Infrastructure
+
+`Prometheus` · `Grafana` · `Caddy` · `REST APIs` · `CI/CD` · `GitOps`
+
+### AI / Data
+
+`Python` · `scikit-learn` · `XGBoost` · `Apache Spark` · `OpenAI API` · `Claude API` · `n8n`
+
+### Development
+
+`Python` · `JavaScript` · `TypeScript` · `Bash` · `SQL` · `FastAPI` · `Flask` · `Node.js` · `React`
+
+### Developer Tools
+
+`Git` · `GitHub` · `Cursor` · `GitHub Copilot` · `Claude Code`
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/rania-fathallah-1581a4286/) · fathallahrania403@gmail.com
+## 📌 Selected Projects
+
+### ☸️ GitOps Self-Healing Kubernetes Demo
+
+A hands-on Kubernetes platform project demonstrating automated deployment and recovery.
+
+* Containerized **FastAPI** application
+* CI pipeline with **GitHub Actions**
+* GitOps continuous delivery using **ArgoCD**
+* Kubernetes deployments with replicas and health checks
+* Self-healing through ReplicaSets and liveness probes
+* Monitoring with **Prometheus & Grafana**
+* Infrastructure experimentation with **Terraform and AKS**
+
+**Stack:** Kubernetes · Docker · ArgoCD · GitHub Actions · Terraform · Prometheus · Grafana · FastAPI
+
+---
+
+### 🤖 SEO Title Generation Automation
+
+LLM-powered automation tool developed during my work with **Neomark Group** for generating e-commerce product titles at scale.
+
+* Built with **Node.js**
+* Integrated the **OpenAI API**
+* Automated bulk catalog processing
+* Deployed on an **OVH VPS**
+* Used in a real infrastructure environment
+
+**Stack:** Node.js · OpenAI API · REST APIs · OVH · Linux
+
+---
+
+### 📡 IMEI Fraud Detection — Orange Tunisie
+
+Telecom fraud-analysis pipeline developed during my engineering internship at **Orange Tunisie**.
+
+* Processed more than **100K telecom usage records**
+* Designed detection rules for suspicious device behavior
+* Explored ML models for anomaly classification
+* Built data-processing and visualization workflows
+
+**Stack:** Python · Pandas · NumPy · scikit-learn · XGBoost · Flask
+
+---
+
+### 🔬 Scientific Knowledge Graph & LLM Research
+
+Research work at **TU Dresden / ScaDS.AI** on extracting scientific claims and querying scholarly knowledge.
+
+* Scientific claim extraction from research papers
+* LLM-based information extraction pipelines
+* Question answering over **SemOpenAlex**
+* Large-scale scholarly datasets
+* Research workflows using **HPC infrastructure**
+
+**Research environment:** Python · LLMs · Knowledge Graphs · SemOpenAlex · HPC
+
+---
+
+## 🎯 Currently
+
+* 📚 Working toward the **CKAD — Certified Kubernetes Application Developer**
+* 🔧 Building deeper expertise in **Kubernetes, Cloud and Platform Engineering**
+* 🤖 Exploring practical **LLM + DevOps automation**
+* 🔍 Interested in **DevOps / Cloud / Platform Engineering / AI Tooling** opportunities
+* 🌍 Open to international and English-speaking engineering teams
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/rania-fathallah-1581a4286/) · [GitHub](https://github.com/Raniaafath) · **[fathallahrania403@gmail.com](mailto:fathallahrania403@gmail.com)**
+
+---
+
+> Building reliable infrastructure, automating repetitive work, and exploring how AI can improve engineering workflows.
